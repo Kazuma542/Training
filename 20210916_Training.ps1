@@ -1,3 +1,3 @@
 New-Item C:\20210916_Training -ItemType Directory
-(New-Object System.Net.WebClient).DownloadFile("https://github.com/Kazuma542/Training/blob/main/test.pptx?raw=true","C:\20210916_warning\test.pptx")
-invoke-item C:\20210916_warning\test.pptx
+(New-Object System.Net.WebClient).DownloadFile("https://github.com/Kazuma542/Training/blob/main/20210916_Trainig.ppsx?raw=true","C:\20210916_warning\20210916_Trainig.ppsx")
+invoke-item C:\20210916_warning\20210916_Trainig.ppsx
